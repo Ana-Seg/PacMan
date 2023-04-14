@@ -1,3 +1,3 @@
 # PacMan
 ## Create PacMen
-<img src="PacMan1.png" width='200 />
+<img src="PacMan1.png" width='200'/>
